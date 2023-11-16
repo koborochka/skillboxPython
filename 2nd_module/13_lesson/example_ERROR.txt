@@ -1,0 +1,5 @@
+[INFO] User logged in.
+[ERROR] Connection failed.
+[INFO] Product added to the cart.
+[ERROR] Database connection lost.
+[INFO] Order placed successfully.
